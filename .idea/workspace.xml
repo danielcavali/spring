@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2eab8951-6a46-46b7-9ae0-0042616e6cfd" name="Changes" comment="initial commit">
+    <list default="true" id="2eab8951-6a46-46b7-9ae0-0042616e6cfd" name="Changes" comment="hello world">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/spring/example/Configuracao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/spring/example/VendasAplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring/example/VendasAplication.java" afterDir="false" />
@@ -41,6 +44,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "ALL",
     "settings.editor.selected.configurable": "build.tools",
@@ -76,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656158824330</updated>
       <workItem from="1656158852947" duration="5301000" />
-      <workItem from="1656344931815" duration="502000" />
+      <workItem from="1656344931815" duration="2821000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1656164170085</created>
@@ -85,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656164170085</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hello world">
+      <created>1656345791247</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656345791247</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="hello world" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello world" />
   </component>
 </project>
